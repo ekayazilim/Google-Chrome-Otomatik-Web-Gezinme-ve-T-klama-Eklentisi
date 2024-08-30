@@ -22,6 +22,10 @@ Bu uzantı, belirli web sayfalarında otomatik gezinme, menüler arasında dola�
 - **Otomatik İçerik İncelemeleri:** Bir web sitesindeki menülerin içeriğini otomatik olarak gezebilir ve sayfa yapısını kontrol edebilirsiniz.
 - **Web Trafiği İzleme:** Otomatik olarak belirli sitelere trafik göndermek için kullanılabilir.
 
+## Ekran Görüntüsü
+
+![Google Chrome Otomatik Web Gezinme ve Tıklama Eklentisi](https://www.ekasunucu.com/resources/uploads/software/2024-08-14/7b56189ac9815f68a4a747f.png)
+
 ## Nasıl Kullanılır?
 
 ### Başlat/Durdur:
