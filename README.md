@@ -24,7 +24,7 @@ Bu uzantı, belirli web sayfalarında otomatik gezinme, menüler arasında dola�
 
 ## Ekran Görüntüsü
 
-![Google Chrome Otomatik Web Gezinme ve Tıklama Eklentisi](https://www.ekasunucu.com/resources/uploads/software/2024-08-14/7b56189ac9815f68a4a747f.png)
+![Google Chrome Otomatik Web Gezinme ve Tıklama Eklentisi](7b56189ac9815f68a4a747f.png)
 
 ## Nasıl Kullanılır?
 
