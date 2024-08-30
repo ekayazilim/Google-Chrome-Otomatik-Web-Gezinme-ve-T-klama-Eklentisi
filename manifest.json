@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Otomatik Web Gezintisi Eklentisi",
+  "version": "1.0",
+  "description": "Belirli bir web sitesinde otomatik gezinti yapar.",
+  "permissions": [
+    "activeTab", 
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+  }
+}
