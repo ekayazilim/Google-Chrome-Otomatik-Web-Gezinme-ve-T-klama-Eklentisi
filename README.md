@@ -1,0 +1,1 @@
+# Google-Chrome-Otomatik-Web-Gezinme-ve-T-klama-Eklentisi
